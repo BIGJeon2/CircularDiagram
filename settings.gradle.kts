@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CircularDiagram"
 include(":app")
-include(":customcirculardiagram")
+include(":circularDiagram")
